@@ -11,8 +11,13 @@
     align-items: center;
 }
 
+img {
+    transition: 1s;
+}
 
-
+img:hover{
+    border-radius: 50%;
+}
 
 
 
